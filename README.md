@@ -18,7 +18,7 @@ Each section asks for user input and uses loops to handle control flow and outpu
 
 Make sure you have Python installed. Then in terminal:
 
-python3 main.py
+python3 main.py OR python main.py
 
 ## Why This Matters
 Looping is one of the most essential tools in programming. This project helped reinforce control structures and user-driven logic through hands-on examples.
